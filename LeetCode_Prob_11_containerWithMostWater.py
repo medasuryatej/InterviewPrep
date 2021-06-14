@@ -6,7 +6,7 @@ def maxArea_Brute(height):
             currentArea = 0
             for j in range(i, len(height)):
                 currentArea = max(currentArea, (j-i) * min(height[i], height[j]))
-            maxWater = max(maxWater, currentArea)
+            maxWater = max(maxWatPer, currentArea)
         return maxWater
 
 
