@@ -12,8 +12,8 @@ class Solution:
                 if curWeights > capacity:
                     days_needed += 1
                     curWeights = w
-                    # if days_needed > days:
-                    #    return False
+                    if days_needed > days:
+                        return False
             return days_needed < days
         
         while minCap < maxCap:
