@@ -1,6 +1,12 @@
+![2022-04](https://user-images.githubusercontent.com/14051949/166089135-d07c9c10-4232-4f97-92ff-7fffb49cee0c.gif)
+
+
 # InterviewPrep
 Python solutions for the LeetCode problems
 https://leetcode.com/suryatej9195/
+
+April 2022 Progress
+![image](https://user-images.githubusercontent.com/14051949/166089127-d70c9415-7f9a-483d-bf66-64905ed5b635.png)
 
 March 2022 Progress
 ![image](https://user-images.githubusercontent.com/14051949/162648277-78dd9a42-c902-4de7-b8f8-c182b3361dc8.png)
