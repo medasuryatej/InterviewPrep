@@ -1,5 +1,5 @@
-![2022-04](https://user-images.githubusercontent.com/14051949/166089135-d07c9c10-4232-4f97-92ff-7fffb49cee0c.gif) ![2022-05](https://user-images.githubusercontent.com/14051949/171078695-4661974e-ef59-46da-9279-875da0870e2d.gif) ![2022-06](https://user-images.githubusercontent.com/14051949/176566441-314c52fd-f196-4f4f-8b44-f884ebeb6c0e.gif)
 
+<img src="https://github.com/medasuryatej/InterviewPrep/blob/main/badges/2022-04.gif" width="160" height="160"> <img src="https://github.com/medasuryatej/InterviewPrep/blob/main/badges/2022-05.gif" width="160" height="160"> <img src="https://github.com/medasuryatej/InterviewPrep/blob/main/badges/2022-06.gif" width="160" height="160">
 
 
 
